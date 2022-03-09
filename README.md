@@ -4,8 +4,6 @@
     <img src="https://github.com/DORAN03/filemanager/blob/main/Xenon-Banner-Edit.png">
 </p>
 
-<p>'VERSION'</p>
-
 <p align="center">
     <a href="https://github.com/DORAN03/filemanager/blob/main/xenon-buildstatus.svg">
         <img alt="Xenon Build Status" src="https://github.com/DORAN03/filemanager/blob/main/xenon-buildstatus.svg">
