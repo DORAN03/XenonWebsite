@@ -1,5 +1,4 @@
 <h1 align="center">**Website!**</h1>
-VERSION
 
 <p align="center">
     <img src="https://github.com/DORAN03/filemanager/blob/main/Xenon-Banner-Edit.png">
