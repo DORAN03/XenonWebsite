@@ -1,10 +1,19 @@
 body {
-  background-color: blue;
+  background-color: #cc2c0c;
   
 }
 
 .SectionTitle {
   font-weight: bold;
-  color: red;
+  color: #ffffff;
   text-align: center;
+  Font-size: 28px;
+}
+
+p {
+  text-align: center;
+  color: #ffffff;
+  font-family: "Georgia";
+  border-top: 1px solid #ffffff;
+  border-bottom: 1px solid #ffffff;
 }
