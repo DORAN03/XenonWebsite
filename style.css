@@ -3,6 +3,17 @@ body {
   
 }
 
+@font-face {
+  font-family: 'Dancing Script';
+  src: url('fonts/DancingScript-Regular.ttf') format('truetype');
+}
+
+.MadeBy {
+  color: #fffff;
+  text-align: center;
+  font-family: "Dancing Script";
+}
+
 .SectionTitle {
   font-weight: bold;
   color: #ffffff;
