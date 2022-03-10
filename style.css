@@ -11,7 +11,7 @@ body {
 .MadeBy {
   color: #fffff;
   text-align: center;
-  font-family: "Dancing Script";
+  font-size: 20px;!important
 }
 
 .SectionTitle {
