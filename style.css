@@ -12,6 +12,10 @@ b-o-dy {
   background: #fff;
 }
 
+body {
+  background: black;
+}
+
 .nav {
   background: #fff!important;
   color: #fff;
