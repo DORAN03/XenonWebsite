@@ -20,13 +20,4 @@ body {
   color: #ff7f17;
   background: #ff7f17;
 
-#navobject {
-  display: inline-block;
-  padding: 10px;
-  margin-left: 40px;
-  margin-right: 40px;
-  width: 80px;
-  height: auto;
-  text-align: middle;
-  color: white;
-}
+
